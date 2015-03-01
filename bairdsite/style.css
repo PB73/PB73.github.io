@@ -1,0 +1,55 @@
+*{
+font-family:sans-serif;
+}
+
+body{
+color:maroon;
+}
+
+
+#namebanner{
+text-align:center;
+background-color:Maroon;
+color:gold;
+padding-top:5px;
+}
+
+h2{
+padding-top:191px;
+}
+
+p>a:visited{color:gold;}
+p>a:link{color:gold;}
+p>a:hover{color:black}
+
+a:visited{color:maroon;}
+a:link{color:maroon;}
+a:hover{color:black}
+
+
+.sectionals{
+}
+
+/*#where{
+text-align:center;
+}*/
+
+ul>li{
+font-weight: bold;
+}
+
+
+p{
+margin-left: 20px;
+
+}
+
+img {
+    float: left;
+	padding-right:10px;
+}
+
+/*#goal{
+padding-bottom:175px;*/
+/*background-color:Maroon;*/
+}
