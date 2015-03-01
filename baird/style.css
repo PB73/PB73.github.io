@@ -4,8 +4,8 @@ font-family:sans-serif;
 
 body{
 color:maroon;
-}
 
+}
 
 #namebanner{
 text-align:center;
@@ -15,7 +15,7 @@ padding-top:5px;
 }
 
 h2{
-padding-top:191px;
+Margin-top:100px;
 }
 
 p>a:visited{color:gold;}
@@ -26,34 +26,22 @@ a:visited{color:maroon;}
 a:link{color:maroon;}
 a:hover{color:black}
 
-
-.sectionals{
-}
-
-/*#where{
-text-align:center;
-}*/
-
 .lihead{
 font-weight: bold;
-}
-
-
-p{
-margin-left: 20px;
-
 }
 
 img {
     float: left;
 	padding-right:10px;
+
+}
+
+#text_line {
+    clear: both;
+    margin-bottom: 2px;
 }
 
 .why{
 margin-left:25px;
 }
 
-/*#goal{
-padding-bottom:175px;*/
-/*background-color:Maroon;*/
-}
