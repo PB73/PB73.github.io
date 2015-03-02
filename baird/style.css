@@ -38,7 +38,7 @@ img {
 
 #text_line {
     clear: both;
-    margin-bottom: 5px;
+    padding-top: 5px;
 }
 
 .why{
@@ -47,21 +47,20 @@ margin-left:25px;
 
 /* Flaired edges, by Tomas Theunissen */
 
-hr{
-    height: 30px;
-    border-style: solid;
-    border-color: black;
-    border-width: 1px 0 0 0;
-    border-radius: 20px;
+hr {
+    padding: 0;
+    border: none;
+    border-top: medium double #333;
+    color: #333;
+    text-align: center;
 }
-hr:before { 
-    display: block;
-    content: "";
-    height: 30px;
-    margin-top: -31px;
-    border-style: solid;
-    border-color: black;
-    border-width: 0 0 1px 0;
-    border-radius: 20px;
+hr:after {
+    content: "§";
+    display: inline-block;
+    position: relative;
+    top: -0.7em;
+    font-size: 1.5em;
+    padding: 0 0.25em;
+    background: white;
 }
 
