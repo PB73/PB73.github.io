@@ -50,8 +50,8 @@ margin-left:25px;
 hr {
     padding: 0;
     border: none;
-    border-top: medium double #333;
-    color: #333;
+    border-top: medium double gold;
+    color: gold;
     text-align: center;
 }
 hr:after {
