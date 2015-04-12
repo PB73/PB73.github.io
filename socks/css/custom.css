@@ -45,7 +45,7 @@ i.feature {	font-size:100px;}
 
 #hero {background-color:#FF5919;color:#FFF;padding:100px 0px 80px 0px;}
 #hero h2 {font-size:5em;margin-bottom:.25em;}
-#hero p#subtitle {font-size:2.5em;margin-bottom:.5em;font-style:italic;}
+#hero p.subtitle {font-size:2.5em;margin-bottom:.5em;font-style:italic;}
 
 #hero p#hard-sell {margin-top:50px;font-size:1.75em;}
 
@@ -60,7 +60,7 @@ i.feature {	font-size:100px;}
   	line-height: 1.5em;
 }
 
-#technology #subtitle {margin-bottom:24px;}
+#technology .subtitle {margin-bottom:24px;}
 
 #technology img {
 	background-color:#FFF;
