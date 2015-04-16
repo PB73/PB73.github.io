@@ -38,20 +38,20 @@ font-size:1.75em;
 
 i.logo {	font-size:250px;}
 
-#faq {padding: 75px 0px 75px 0px;
+#accordion {padding: 75px 0px 75px 0px;
 background-color:black;}
 
 
-#faq .panel-default>.panel-heading {
+#accordion .panel-default>.panel-heading {
   color: black;
   background-color:gray;
   border-color: yellow;
 }
 
-#faq .panel-default {
+#accordion .panel-default {
   border-color: yellow;
 }
-#faq.panel-group{
+#accordion.panel-group{
     margin:0px;
 }
 
