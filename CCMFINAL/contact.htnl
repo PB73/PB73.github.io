@@ -1,0 +1,249 @@
+<html>
+
+<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		    <title>WatchamaWidget Watch | Shocking People </title>
+        		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+        		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+        		<link rel="stylesheet" href="custom.css">
+</head>
+
+<body data-spy="scroll" data-target="#navbar">
+
+	<!-- Fixed navbar -->
+	    <nav id="navbar" class="navbar navbar-default navbar-fixed-top">
+	      <div class="container">
+	        <div class="navbar-header">
+	          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+	            <span class="sr-only">Toggle navigation</span>
+	            <span class="icon-bar"></span>
+	            <span class="icon-bar"></span>
+	            <span class="icon-bar"></span>
+	          </button>
+			  <a class="navbar-brand" href="#home"><i class="fa fa-bolt"></i> WatchamaWidget</a>
+	        </div>
+	        <div id="navbar" class="navbar-collapse collapse">
+	          <!-- <ul class="nav navbar-nav">
+	            <li class=""><a href="#">Home</a></li>
+	            <li><a href="#about">About</a></li>
+	            <li><a href="#contact">Contact</a></li>
+	            <li class="dropdown">
+	              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Dropdown <span class="caret"></span></a>
+	              <ul class="dropdown-menu" role="menu">
+	                <li><a href="#">Action</a></li>
+	                <li><a href="#">Another action</a></li>
+	                <li><a href="#">Something else here</a></li>
+	                <li class="divider"></li>
+	                <li class="dropdown-header">Nav header</li>
+	                <li><a href="#">Separated link</a></li>
+	                <li><a href="#">One more separated link</a></li>
+	              </ul>
+	            </li>
+	          </ul> -->
+	          <ul class="nav navbar-nav navbar-right">
+	            <li><a href="feat.html#feat">Features</a></li>
+				<li><a href="tech.html#techno">Technology</a></li>
+                <li><a href="about.html#about">About Us</a></li>
+	            <li class=""><a href="faq.html#qa">FAQ</a></li>
+                <li class=""><a href="contact.html#cu">Contact Us</a></li>
+                <li class=""><a href="index.html#home">Home</a></li>
+				<li><button type="button" class="btn btn-blue navbar-btn">Buy Now</button></li>
+
+	          </ul>
+
+	        </div><!--/.nav-collapse -->
+	      </div>
+	    </nav>
+
+<div id="cu">
+</div><!-- cu -->
+
+
+
+
+
+<div id="head">
+
+
+
+<div class="container">
+<div class="row">
+
+<div class="col-xs-12">
+<h1 class="text-center">Contact Us</h1>
+</div><!--col-->
+
+<div class="col-xs-3 col-xs-offset-5">
+<p>We love hearing from our fans. Feel free to contact us... with praise</p>
+</div> <!--col-->
+<div class="col-xs-3 col-xs-offset-5">
+
+<form  id="contact_form" action="#" method="POST" enctype="multipart/form-data">
+	<div class="row">
+		<label for="name">Your name:</label><br />
+		<input id="name" class="input" name="name" type="text" value="" size="30" /><br />
+	</div>
+	<div class="row">
+		<label for="email">Your email:</label><br />
+		<input id="email" class="input" name="email" type="text" value="" size="30" /><br />
+	</div>
+	<div class="row">
+		<label for="message">Your message:</label><br />
+		<textarea id="message" class="input" name="message" rows="7" cols="30"></textarea><br />
+	</div>
+	<input id="submit_button" type="submit" value="Send email" />
+</form>
+
+</div>    <!--col-->
+
+
+</div><!--row-->
+</div><!--cont-->
+</div><!--head-->
+
+
+<div class="green">
+<div class="container">
+<div class="row">
+<div class="col-xs-6 col-xs-offset-3">
+<p class="text-center">Feel free to send us hate mail at:<br> 900 State St <br>Salem, Or, 97301. <br>We need it to fuel our fireplace</p>
+</div> <!--col-->
+
+<div class="col-xs-6 col-xs-offset-4">
+<div class="center-block">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2824.347925424058!2d-123.02871259999999!3d44.93659460000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54bfff13842e296d%3A0x17031e18c5c39967!2s900+State+St%2C+Willamette+University%2C+Salem%2C+OR+97301!5e0!3m2!1sen!2sus!4v1430337653078" width="400" height="300" frameborder="0" style="border:0"></iframe>
+</div>
+ </div> <!--col-->
+
+ <div class="col-xs-6 col-xs-offset-4">
+<br>
+<p class="text-centered">Or listen to our awesome hold music by calling: 123-456-7890</p>
+</div> <!--col-->
+
+</div><!--row-->
+
+</div><!--cont-->
+</div><!--map-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="sitenav">
+			<div class="container">
+
+    			<div class="row">
+
+                <div class="col-sm-2 col-sm-offset-1">
+
+                    <a href="index.html">
+                        <p class="text-center"><i class="fa fa-home nav_feature"></i></p>
+                       <p class="text-center link_head">Home</p>
+
+                    </a>
+
+    				</div><!-- col -->
+
+                <div class="col-sm-2 ">
+
+                    <a href="tech.html">
+                        <p class="text-center"><i class="fa fa-cogs nav_feature"></i></p>
+                       <p class="text-center link_head">Technology</p>
+
+                    </a>
+
+    				</div><!-- col -->
+
+                    <div class="col-sm-2">
+
+                    <a href="feat.html">
+                        <p class="text-center"><i class="fa fa-bars nav_feature"></i></p>
+                       <p class="text-center link_head">Features</p>
+
+                    </a>
+
+    				</div><!-- col -->
+
+                    <div class="col-sm-2">
+
+                    <a href="about.html">
+    					<p class="text-center"><i class="fa fa-users nav_feature"></i></p>
+    				   <p class="text-center link_head">About Us</p>
+
+                    </a>
+
+    				</div><!-- col -->
+
+
+    				<div class="col-sm-2">
+
+                    <a href="faq.html">
+    					<p class="text-center"><i class="fa fa-question nav_feature"></i></p>
+    					<p class="text-center link_head">Frequently Asked Questions</p>
+
+                    </a>
+
+    				</div><!-- col -->
+
+
+			</div><!-- row -->
+		</div><!-- #container -->
+        </div><!-- #sitenav -->
+
+
+
+
+        <div id="footer">
+        <div class="container">
+<div class="row">
+<div class="col-sm-4">
+<h5 class="text-center">We are glad to take your money!</h5>
+<a  href="https://amazon.com"><img src="img/amazon.png" alt="Buy on amazon" class="center-block img-responsive"> </a>
+</div>
+
+<div class="col-sm-4">
+<h5>Every new follower sends 10 volts into our CEO's wrist</h5>
+
+<div class="btn-group" role="group" aria-label="...">
+<div class="text-center">
+<a href="http://www.twitter.com/watchamawidget" class="btn btn-default"><i class="fa fa-twitter"></i> Twitter</a>
+<a href="https://www.facebook.com" class="btn btn-default"><i class="fa fa-facebook"></i> Facebook</a>
+<a href="https://www.google.com" class="btn btn-default"><i class="fa fa-google-plus-square"></i> Google+</a>
+</div>
+</div>
+</div>
+
+<div class="col-sm-4">
+<h5>Subscribe for updates and sales</h5>
+
+
+
+<div class="input-group">
+				      <input type="text" class="form-control" placeholder="Email address">
+				      <span class="input-group-btn">
+				        <button class="btn btn-default" type="button">Sign-Up!</button>
+				      </span>
+				   </div><!-- /input-group -->
+</div>
+</div><!--row-->
+</div><!--cont-->
+</div><!--footer-->
+
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+
+
+</body>
+
+</html>
