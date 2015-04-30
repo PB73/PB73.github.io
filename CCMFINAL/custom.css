@@ -1,0 +1,174 @@
+
+.navbar-default {
+	background-color:#0B0B0B;
+	border-color:#FACD00;
+}
+
+.navbar-default .navbar-brand {
+	color:#FACD00;
+	 font-weight: bold;
+}
+
+.navbar-default .navbar-nav>li>a { color: #FFF;}
+
+.navbar-default .navbar-toggle .icon-bar { background-color: #FFF; }
+i.feature {	font-size:100px;}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+  color: #FF5800;
+  background-color: #FFF;
+}
+
+/* unvisited link */
+a:link {
+    color: #FACD00;
+}
+
+/* visited link */
+a:visited {
+    color: grey;
+}
+
+/* mouse over link */
+a:hover {
+    color: #0B0B0B;
+}
+
+/* selected link */
+a:active {
+    color: #0B0B0B;
+}
+
+.link_head{
+    font-size:1.5em;
+}
+
+
+/* Home--------------------------------------------------------------------------------- */
+
+body {
+        background-color: grey;
+        color:#0B0B0B;
+}
+
+#navbar_placeholder {background-color:#0B0B0B;
+
+padding:50px 0px 50px 0px;
+}
+
+#head {background-color:#FACD00;
+
+padding:250px 0px 150px 0px;
+}
+
+#head h2 {font-size:5em;
+margin-bottom:.25em;
+}
+#head p#subtitle {font-size:2.5em;
+margin-bottom:.5em;
+font-style:italic;  }
+
+
+#head p#hard-sell {margin-top:50px;
+font-size:1.75em;
+}
+
+
+i.logo {font-size:250px;}
+i.feature {	font-size:100px;}
+
+#tech_tease {padding: 75px 0px;background-color:#80A438;
+}
+#company_tease {padding: 75px 0px;background-color:#AF9C3C;}
+
+#footer {background-color:grey;
+
+padding:100px 0px 80px 0px;
+}
+
+/*Features--------------------------------------------------------------------------*/
+
+#features {padding: 75px 0px;background-color:#FACD00;
+}
+
+#sitenav {padding: 75px 0px;background-color:#AF9C3C;
+}
+
+i.nav_feature {	font-size:75px;}
+
+/*tech--------------------------------------------------------------------------*/
+
+.techtitle{
+    font-size:1.5em;
+}
+
+.techsubtitle{
+    font-size:1.1em;
+}
+
+/*p#subtitle.lead.text-right{
+    margin-right:25px;
+}
+
+p#subtitle.lead.text-left{
+    margin-left:25px;
+}*/
+
+#head_tech {background-color:#FACD00;
+
+padding:250px 0px 150px 0px;
+}
+
+#info{
+    padding 30px 0px
+}
+
+
+#head_tech p#subtitle {font-size:1.75em;
+margin-bottom:.5em;
+/*font-style:italic;*/
+}
+
+.hard-sell {margin-top:50px; margin-right:25px;
+font-size:1.25em;
+}
+
+#product_desc {padding: 75px 0px; font-size:1.25em;
+}
+
+
+.img_tech{  margin-top:50px;
+
+}
+
+
+/*FAQ--------------------------------------------------------------------------*/
+
+.question{
+    font-size:1.25em;
+}
+/*contact us--------------------------------------------------------------------------*/
+
+.form_centered{
+    float: none;
+    margin: 0 auto;
+}
+
+.green {padding: 75px 0px;background-color:#80A438;
+}
+
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*about us--------------------------------------------------------------------------*/
+
+.row_bump{
+    padding-top:10px;
+}
+
+.deemp{
+    font-size:.95em;
+}
