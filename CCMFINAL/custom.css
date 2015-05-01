@@ -49,6 +49,7 @@ a:active {
 body {
         background-color: grey;
         color:#0B0B0B;
+        font:sans-serif;
 }
 
 #navbar_placeholder {background-color:#0B0B0B;
