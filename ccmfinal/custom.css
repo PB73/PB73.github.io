@@ -1,0 +1,268 @@
+*{
+font-family:serif;
+
+}
+.navbar-default {
+	background-color:#0B0B0B;
+	border-color:#FACD00;
+	font-size:1.25em;
+}
+
+.navbar-default .navbar-brand {
+	color:#FACD00;
+	 font-weight: bold;
+}
+
+.navbar-default .navbar-nav>li>a { color: white;}
+
+.navbar-default .navbar-toggle .icon-bar { background-color: #FACD00; }
+i.feature {	font-size:100px;}
+
+li a:hover {
+    color:green;
+}
+
+.navbar {margin-bottom:0;}
+
+.currentPage{
+background-color: #FACD00;
+}
+
+
+
+/* unvisited link */
+a:link {
+    color: #0B0B0B;
+}
+
+/* visited link */
+a:visited {
+    color: #0B0B0B;
+}
+
+/* mouse over link */
+a:hover {
+    color: #FACD00;
+}
+
+/* selected link */
+a:active {
+    color: #FACD00;
+}
+
+.link_head{
+    font-size:1.5em;
+}
+
+
+/* Home--------------------------------------------------------------------------------- */
+
+body {
+        
+        color:#0B0B0B;
+        font:sans-serif;
+}
+
+#navbar_placeholder {background-color:#0B0B0B;
+
+padding:50px 0px 50px 0px;
+}
+
+#head {background-color:#FACD00;
+
+padding:150px 0px 150px 0px;
+}
+
+#head h1 {font-size:5em;
+margin-bottom:.25em;
+}
+
+#head h2 {font-size:5em;
+margin-bottom:2em;
+}
+
+h3 {font-size:2em;
+margin-bottom:1em;
+}
+
+#head p#subtitle {font-size:2.5em;
+margin-bottom: 3em;
+font-style:italic;  }
+
+#head p#subtitle1 {font-size:2.5em;
+margin-bottom: 10px;
+font-style:italic;  }
+#sub{margin-bottom:3em;}
+
+
+#head p#hard-sell {margin-top:50px;
+font-size:1.75em;
+}
+
+
+i.logo {font-size:250px;}
+i.feature {	font-size:100px;}
+
+#tech_tease {padding: 75px 0px;background-color:#80A438;
+}
+#company_tease {padding: 75px 0px;background-color:#AF9C3C;}
+
+#footer {background-color:grey;
+
+padding:100px 0px 80px 0px;
+}
+
+/*Features--------------------------------------------------------------------------*/
+
+.buynow{.
+	width:250px;
+}
+
+#features {padding: 75px 0px;background-color:#FACD00;
+}
+
+.sitenav {padding: 75px 0px;background-color:white;color:black;
+}
+
+.white {background-color:white;color:black;
+}
+
+hr {
+  border: 0;
+  /* width: 80%; */
+  color: #0B0B0B;
+background-color: #0B0B0B;
+height: 1.5px;
+}
+
+i.nav_feature {	font-size:75px;}
+
+/*tech--------------------------------------------------------------------------*/
+
+.techtitle{
+    font-size:1.5em;
+}
+
+.techsubtitle{
+    font-size:1.1em;
+}
+
+/*p#subtitle.lead.text-right{
+    margin-right:25px;
+}
+
+p#subtitle.lead.text-left{
+    margin-left:25px;
+}*/
+
+#head_tech {background-color:#FACD00;
+
+padding:250px 0px 150px 0px;
+}
+
+#info{
+    padding 30px 0px
+}
+
+
+#head_tech p#subtitle {font-size:1.75em;
+margin-bottom:.5em;
+/*font-style:italic;*/
+}
+
+.hard-sell {margin-top:50px; margin-right:25px;
+font-size:1.25em;
+}
+
+#product_desc {padding: 75px 0px; font-size:1.25em;
+}
+
+
+.img_tech{  margin-top:50px;
+
+}
+
+
+/*FAQ--------------------------------------------------------------------------*/
+
+.question{
+    font-size:1.25em;
+}
+/*contact us--------------------------------------------------------------------------*/
+
+.form_centered{
+    float: none;
+    margin: 0 auto;
+}
+
+.green {padding: 75px 0px;background-color:#80A438; font-size:1.25em;
+}
+
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*about us--------------------------------------------------------------------------*/
+
+.row_bump{
+    padding-top:10px;
+}
+
+.deemp{
+    font-size:.95em;
+}
+
+/* unvisited link */
+.green a:link {
+    color: #FACD00;
+}
+
+/* visited link */
+.green a:visited {
+    color: #FACD00;
+}
+
+/* mouse over link */
+.green a:hover {
+    color: #FACD00;
+}
+
+/* selected link */
+.green a:active {
+    color: #FACD00;
+}
+
+.green .link_head{
+    font-size:1.5em;
+}
+
+.qlink a:link {
+    color: #80A438;
+}
+
+/* visited link */
+.qlink a:visited {
+    color: #80A438;
+}
+
+/* mouse over link */
+.qlink a:hover {
+    color: #FACD00;
+}
+
+/* selected link */
+.qlink a:active {
+    color: #FACD00;
+}
+
+.qlink .link_head{
+    font-size:1.5em;
+}
+
+
+#contact_form{padding-left:15px;
+}
+
+
